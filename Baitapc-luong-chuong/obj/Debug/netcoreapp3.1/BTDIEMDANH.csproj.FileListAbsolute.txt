@@ -1,0 +1,14 @@
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.exe
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.deps.json
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.runtimeconfig.json
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.runtimeconfig.dev.json
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.dll
+C:\Users\luong\source\repos\BTDIEMDANH\bin\Debug\netcoreapp3.1\BTDIEMDANH.pdb
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.AssemblyInfoInputs.cache
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.AssemblyInfo.cs
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.dll
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.pdb
+C:\Users\luong\source\repos\BTDIEMDANH\obj\Debug\netcoreapp3.1\BTDIEMDANH.genruntimeconfig.cache

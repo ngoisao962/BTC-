@@ -1,0 +1,15 @@
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\bin\Debug\net6.0\BTDIEMDANH10_05.exe
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\bin\Debug\net6.0\BTDIEMDANH10_05.deps.json
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\bin\Debug\net6.0\BTDIEMDANH10_05.runtimeconfig.json
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\bin\Debug\net6.0\BTDIEMDANH10_05.dll
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\bin\Debug\net6.0\BTDIEMDANH10_05.pdb
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.AssemblyInfoInputs.cache
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.AssemblyInfo.cs
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.dll
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\refint\BTDIEMDANH10_05.dll
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.pdb
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\BTDIEMDANH10_05.genruntimeconfig.cache
+C:\Users\luong\source\repos\BTC#\BTDIEMDANH10_05\BTDIEMDANH10_05\obj\Debug\net6.0\ref\BTDIEMDANH10_05.dll
