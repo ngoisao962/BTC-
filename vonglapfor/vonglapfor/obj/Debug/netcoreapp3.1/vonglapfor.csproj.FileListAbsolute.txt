@@ -1,0 +1,14 @@
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.exe
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.deps.json
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.runtimeconfig.json
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.runtimeconfig.dev.json
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.dll
+D:\LTC_ThHuy\vonglapfor\vonglapfor\bin\Debug\netcoreapp3.1\vonglapfor.pdb
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.csproj.AssemblyReference.cache
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.AssemblyInfoInputs.cache
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.AssemblyInfo.cs
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.csproj.CoreCompileInputs.cache
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.dll
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.pdb
+D:\LTC_ThHuy\vonglapfor\vonglapfor\obj\Debug\netcoreapp3.1\vonglapfor.genruntimeconfig.cache

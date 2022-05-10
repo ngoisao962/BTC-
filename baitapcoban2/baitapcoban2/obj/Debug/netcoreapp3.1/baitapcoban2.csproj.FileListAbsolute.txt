@@ -1,0 +1,14 @@
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.exe
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.deps.json
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.runtimeconfig.json
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.runtimeconfig.dev.json
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.dll
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\bin\Debug\netcoreapp3.1\baitapcoban2.pdb
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.csproj.AssemblyReference.cache
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.AssemblyInfoInputs.cache
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.AssemblyInfo.cs
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.csproj.CoreCompileInputs.cache
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.dll
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.pdb
+D:\LTC_ThHuy\baitapcoban2\baitapcoban2\obj\Debug\netcoreapp3.1\baitapcoban2.genruntimeconfig.cache
